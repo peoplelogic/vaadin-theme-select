@@ -1,4 +1,4 @@
-import '@vaadin/select/vaadin-lit-select';
+import '@vaadin/select/vaadin-select';
 import { LitElement, html, css } from 'lit';
 import { property, customElement } from 'lit/decorators.js';
 import { ifDefined } from 'lit/directives/if-defined.js';

@@ -6,12 +6,12 @@
 
     <groupId>org.vaadin.addons.themeselect</groupId>
     <artifactId>themeselect</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>Theme Select</name>
     <description>Theme select components for Vaadin</description>
 
     <properties>
-        <vaadin.version>24.5.3</vaadin.version>
+        <vaadin.version>24.9.1</vaadin.version>
 
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
